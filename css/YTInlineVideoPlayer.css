@@ -14,14 +14,6 @@ button.hover {
 	color: #ce2121;
 }
 
-button.playVideo {
-	display: none;
-}
-
-button.pauseVideo {
-	display: none;
-}
-
 .video-wrapper {
 	width: 100%;
 	background: black;
