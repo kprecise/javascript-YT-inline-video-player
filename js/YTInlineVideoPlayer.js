@@ -1,10 +1,9 @@
-/**
-* Plugin: YouTube Inline Video Player
-* Framework: JQuery
-* Date: 12th January 2017
-* Author: Kyri Kyriacou
-* www.cheekyiguana.com
-**/
+
+// Plugin: YouTube Inline Video Player
+// Framework: JQuery
+// Date: 12th January 2017
+// Author: Kyri Kyriacou
+// www.cheekyiguana.com
 
 $(document).ready(function() {
 
